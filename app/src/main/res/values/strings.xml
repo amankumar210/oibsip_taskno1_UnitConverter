@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OasisTask1_Aman_UnitConverter</string>
+    <string name="this_app_is_developed_as_a_part_of_android_development_internhsip">This app is developed as a part of Android Development Internhsip</string>
+    <string name="convert">Convert</string>
+    <string name="value_in_grams">Value in Grams</string>
+    <string name="value_in_kg">Value in KG</string>
+    <string name="output_here">Output Here</string>
+    <string name="output_will_be_displayed_here">Output will be displayed here</string>
+</resources>
